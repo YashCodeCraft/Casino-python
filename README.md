@@ -69,14 +69,12 @@ python main.py
 ```
 
 ## Project Structure
-```
-plaintext
-Copy code
+```plaintext
 casino-slot-machine/
 │
+├── .gitignore          # To ignore unnecessary files
 ├── README.md           # Game instructions and documentation
-├── casino.py           # Main Python script for the slot machine game
-└── .gitignore          # To ignore unnecessary files (optional)
+└── main.py           # Main Python script for the slot machine game
 ```
 
 
