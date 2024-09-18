@@ -53,4 +53,40 @@ The game keeps track of the player’s balance, bets, and winnings throughout th
 
 1. Clone or download the repository.
    ```bash
-   git clone https://github.com/your-username/casino-slot-machine.git
+   git clone https://github.com/YashCodeCraft/Casino-python.git
+   ```
+
+2. Navigate to the project directory:
+
+```bash
+cd Casino-python
+```
+
+3. Run the game using Python:
+
+```bash
+python main.py
+```
+
+## Project Structure
+```
+plaintext
+Copy code
+casino-slot-machine/
+│
+├── README.md           # Game instructions and documentation
+├── casino.py           # Main Python script for the slot machine game
+└── .gitignore          # To ignore unnecessary files (optional)
+```
+
+
+## Future Enhancements
+Here are some ideas for future improvements:
+
+- Add more symbols: Introduce additional symbols with different payout values.
+- Bonus Rounds: Add a feature where players can unlock bonus spins or special rewards.
+- Save Progress: Implement a feature that saves the player's balance and session for future plays.
+- Graphical Interface: Create a GUI using a library like tkinter for a more interactive experience.
+
+
+   
